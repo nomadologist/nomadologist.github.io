@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /bleeding-kansas/audio/
+Disallow: /bleeding-kansas/videos/
+Disallow: /bleeding-kansas/images/
